@@ -1,7 +1,7 @@
 "use strict";
 var bodec = require('bodec');
 var mine = require('mine');
-var pathJoin = require('pathjoin');
+var pathJoin = require('path').join;
 var vm = require('vm');
 
 module.exports = function* (load, url, code) {

@@ -1,6 +1,6 @@
 {
   "name": "wheaty-js-runtime",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "JavaScript runtime for wheaty app platform",
   "main": "js-runtime.js",
   "scripts": {
@@ -23,8 +23,7 @@
   },
   "homepage": "https://github.com/creationix/wheaty-js-runtime",
   "dependencies": {
-    "bodec": "0.0.2",
-    "mine": "0.0.2",
-    "pathjoin": "0.0.1"
+    "bodec": "^0.1.0",
+    "mine": "^0.1.0"
   }
 }
