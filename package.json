@@ -1,0 +1,25 @@
+{
+  "name": "wheaty-js-runtime",
+  "version": "0.0.1",
+  "description": "JavaScript runtime for wheaty app platform",
+  "main": "js-runtime.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:creationix/wheaty-js-runtime.git"
+  },
+  "keywords": [
+    "js-git",
+    "wheaty",
+    "runtime",
+    "js"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/wheaty-js-runtime/issues"
+  },
+  "homepage": "https://github.com/creationix/wheaty-js-runtime"
+}
